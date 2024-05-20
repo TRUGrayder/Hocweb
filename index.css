@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.dad{
+    width: 800px;
+    display: grid;
+    grid-template-columns:1fr 1fr 
+    1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns:1fr 1fr 
+    1fr 1fr 1fr 1fr 1fr 1fr;
+   
+}
+.mot{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+.hai{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
